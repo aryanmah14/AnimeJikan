@@ -23,7 +23,7 @@ AnimeJikan is a modern Android application for exploring anime, powered by the J
 
 | Home Screen | Anime Details | Trailer Playback |
 |------------|---------------|------------------|
-| ![Home Screen](screenshots/home.png) | ![Anime Details](screenshots/details.png) | ![Trailer Playback](screenshots/trailer.png) |
+| ![Home Screen](screenshots/home.png) | ![Anime Details](screenshots/details.png)
 
 ## 📝 Assumptions
 
@@ -52,3 +52,4 @@ AnimeJikan is a modern Android application for exploring anime, powered by the J
 ---
 
 *Developed as part of a technical exercise for anime discovery and Android development best practices.*
+
